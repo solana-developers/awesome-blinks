@@ -58,6 +58,7 @@ a URL.
 <!--  -->
 - [dial.to](https://dial.to) - Dialect's blink interstitial tool.
 - [Dialect's Dashboard](https://dashboard.dialect.to) - Hub for building actions & blinks.
+- [Znap](https://github.com/heavy-duty/znap) - Framework to build APIs compatible with the Solana Actions spec.
 
 ## Wallets and Browser Extensions
 

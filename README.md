@@ -78,6 +78,7 @@ a URL.
 
 - [Helium's HIP voting](https://heliumvote.com/mobile/proposals/2z9WenqeZvdCuPEDJBKn4dDPequj99SURYYZNUtooyfN) - Vote on Helium's HIP proposals.
 - [Realms.today](https://dial.to/realms/vote/dao/Dean%27s%20List%20Network%20State/proposal/G3av7swjUPKjD4b5VisUzvK1MWoGLvGMWH8Fagy7tXWF) - Vote on DAO governance proposals on Realms.
+- [Squads](https://dial.to/?action=solana-action%3Ahttps%3A%2F%2Fsquads-actions-poc.vercel.app%2Fapi%2Factions%2Fapprove-tx%3Fsquad%3D8J1vkuS76G4taHxvBKKC8rjeHjydiFZhRBtyLBQ9WYYe%26tx%3D4) - Approve, reject, and execute Squads transactions.
 
 ## NFTs and Collectibles
 

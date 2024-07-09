@@ -49,12 +49,14 @@ a URL.
 
 - [Documentation](https://solana.com/docs/advanced/actions) - Solana Actions in the Solana core documentation.
 - [Video - How to Build Actions and Blinks](https://www.youtube.com/watch?v=kCht01Ycif0)
-- [Example Code Snippets](https://github.com/solana-developers/solana-actions/tree/main/examples/next-js) - NextJS project with example code snippets.
-- [solana-actions.vercel.app](https://solana-actions.vercel.app/) - Deployed devnet example actions.
+- [NextJS Code Snippets](https://github.com/solana-developers/solana-actions/tree/main/examples/next-js) - NextJS project with example code snippets.
+- [ExpressJS Code Snippets](https://github.com/solana-developers/solana-actions/tree/main/examples/express) - ExpressJS project with example code snippets.
+- [Axum Code Snippets](https://github.com/solana-developers/solana-actions/tree/main/examples/axum) - Example Actions using Axum and Rust.
 
 ## Developer Tools
 
 - [`@solana/actions`](https://www.npmjs.com/package/@solana/actions) - SDK to quickly build Solana Actions.
+- [Blinks.xyz Inspector](https://www.blinks.xyz/inspector) - Test and debug blinks and actions in your browser.
 <!--  -->
 - [dial.to](https://dial.to) - Dialect's blink interstitial tool.
 - [Dialect's Dashboard](https://dashboard.dialect.to) - Hub for building actions & blinks.

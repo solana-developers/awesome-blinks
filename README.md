@@ -15,17 +15,17 @@ you to all our
 
 ## Contents
 
-- [Awesome Solana Blinks ](#awesome-solana-blinks-)
-  - [Contents](#contents)
-  - [What are Solana Actions](#what-are-solana-actions)
-  - [What are blockchain links (blinks)](#what-are-blockchain-links-blinks)
-  - [Developer Education](#developer-education)
-  - [Developer Tools](#developer-tools)
-  - [Wallets and Browser Extensions](#wallets-and-browser-extensions)
-  - [DeFi and Payments](#defi-and-payments)
-  - [Governance](#governance)
-  - [NFTs and Collectibles](#nfts-and-collectibles)
-  - [Content and Social Protocols](#content-and-social-protocols)
+- [Awesome Solana Blinks](#awesome-solana-blinks-)
+- [Contents](#contents)
+- [What are Solana Actions](#what-are-solana-actions)
+- [What are blockchain links (blinks)](#what-are-blockchain-links-blinks)
+- [Developer Education](#developer-education)
+- [Developer Tools](#developer-tools)
+- [Wallets and Browser Extensions](#wallets-and-browser-extensions)
+- [DeFi and Payments](#defi-and-payments)
+- [Governance](#governance)
+- [NFTs and Collectibles](#nfts-and-collectibles)
+- [Content and Social Protocols](#content-and-social-protocols)
 
 ## What are Solana Actions
 

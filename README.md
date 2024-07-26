@@ -89,7 +89,7 @@ a URL.
 ## NFTs and Collectibles
 
 - [Tensor.trade](https://www.tensor.trade/trade/tensorians) - Trade NFTs on Tensor.
-- [truffle.tech](https://dial.to/?action=solana-action:https://truffle.tech/solana-actions/mint/test-solana-actions) - Mint NFTs from collections.
+- [truffle.wtf](https://truffle.wtf/project/test-solana-actions) - Mint NFTs from collections.
 - [3.land](https://3.land/item/FqpWuEUcvAmnpSfo5EmigPYd8XYGyWbwzty8zrqmy6Qj) - Minting via blinks.
 - [dReader Comics](https://dreader.app/mint/48) - Mint comics from the dReader platform.
 

@@ -66,6 +66,7 @@ a URL.
 - [Znap](https://github.com/heavy-duty/znap) - Framework to build APIs compatible with the Solana Actions spec.
 - [ExpressJS Server for Actions](https://github.com/McDegens-DAO/solana-action-express) - Made by [SolDapper](https://x.com/SolDapper) for McDegensDAO
 - [`solana-actions-server`](https://github.com/drift-labs/solana-actions-server) - Example Solana Actions code base from [Drift](https://discord.gg/driftprotocol).
+- [Solana Actions Server Template](https://github.com/arihantbansal/solana-actions-template) - ExpressJS server template for Solana Actions.
 
 ## Wallets and Browser Extensions
 

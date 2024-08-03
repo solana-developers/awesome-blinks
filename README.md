@@ -97,3 +97,4 @@ a URL.
 
 - [Access Protocol](https://hub.accessprotocol.co/creators/the-block) - Subscribe to content by staking assets.
 - [AskAnon.fun](https://x.com/drip_haus/status/1810758421836362017) - Anonymously ask, compliment and connect with twitter accounts.
+- [Blinktochat.fun](https://blinktochat.fun) - Gate your Telegram chats with NFT collections. Create a Blink with just 2 Magical commands > Share the Blink to allow access.

@@ -56,6 +56,9 @@ a URL.
 - [ExpressJS Code Snippets](https://github.com/solana-developers/solana-actions/tree/main/examples/express) - ExpressJS project with example code snippets.
 - [Axum Code Snippets](https://github.com/solana-developers/solana-actions/tree/main/examples/axum) - Example Actions using Axum and Rust.
 
+## Templates
+- [Action Chaining Example](https://github.com/thearyanag/action-chaining-example) - Example using 3 Actions in chain, depending upon user action
+
 ## Developer Tools
 
 - [`@solana/actions`](https://www.npmjs.com/package/@solana/actions) - SDK to quickly build Solana Actions.

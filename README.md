@@ -74,6 +74,7 @@ a URL.
 - [Dialect Blinks](https://chromewebstore.google.com/detail/dialect-blinks/mhklkgpihchphohoiopkidjnbhdoilof) - Enable blinks using any wallet.
 
 ## DeFi and Payments
+- [PnL Labs](https://pnllabs.com) - Trust & risk verdicts for AI trading agents on Solana via x402 (USDC, no keys): real realized-PnL wallet trust (not peak scores), wallet funding forensics, token safety, and trade execution cost. Machine-first JSON + MCP server. ([API](https://api.pnllabs.com)) ([MCP](https://github.com/PnLlabs/pnllabs-mcp))
 
 - [Jupiter Swap](https://jup.ag/swap/USDC-SOL) - Swap any token to another.
 - [Sphere](https://dial.to/sphere/pay/paymentLink_ea7773f8e9ca45de8aa6072311fe31a6) - Swap any token to another.

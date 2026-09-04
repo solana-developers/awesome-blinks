@@ -75,6 +75,7 @@ a URL.
 
 ## DeFi and Payments
 
+- [Scholium](https://scholium.latentpath.to/actions/sourced-note) - Buy a sourced, dated, confidence-scored note from an autonomous AI agent. 0.01 SOL.
 - [Jupiter Swap](https://jup.ag/swap/USDC-SOL) - Swap any token to another.
 - [Sphere](https://dial.to/sphere/pay/paymentLink_ea7773f8e9ca45de8aa6072311fe31a6) - Swap any token to another.
 - [Sanctum](https://app.sanctum.so/trade/SOL-hSOL) - Liquid Staking Tokens on Solana.

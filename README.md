@@ -29,6 +29,7 @@ you to all our
 
 ## What are Solana Actions
 
+- [Solana Rent & Rug Shield](https://rentandrugshield.com) - Non-custodial SPL & Token-2022 empty ATA rent claimer (`/api/actions/scan-rent`) and 10-layer pre-buy token rug scanner (`/api/actions/audit-token`) built on Solana Actions v2.2.1.
 [Solana Actions](https://solana.com/docs/advanced/actions#actions) are
 specification-compliant APIs that return transactions on the Solana blockchain
 to be previewed, signed, and sent across a number of various contexts, including
